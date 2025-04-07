@@ -1,5 +1,7 @@
 # Walmart Black Friday Spending Analysis: Confidence Intervals & CLT
 
+![dataset-cover](https://github.com/user-attachments/assets/536a3e26-5f52-4b2d-a141-f7cbe1f2ca34)
+
 ## Project Overview
 
 This project analyzes transactional data from Walmart customers during Black Friday to understand customer purchase behavior, specifically focusing on the purchase amount. The analysis utilizes the Central Limit Theorem (CLT) and Confidence Intervals to compare spending habits between different customer segments (Gender, Marital Status, Age), aiming to provide actionable insights for Walmart's management team.
